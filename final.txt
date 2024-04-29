@@ -1,0 +1,3 @@
+fue un practico sencillo, me equivoque en el primer commit, ya que habia agregado otro antes, y despues me equivoque en crear los archivos en remoto, los cree sin
+querer en el local, y despues si los cree en el remoto
+
